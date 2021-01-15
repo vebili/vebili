@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 | :octocat: Connect via: | :scroll: Certificates: |
 | :-: | :-: |
-| :e-mail: **E-mail:**<br/>**vbiliarski@gmail.com**| :heavy_check_mark: [**C# Basics 2020**](https://softuni.bg/certificates/details/82655/30d4099b)<br/>:heavy_check_mark: [**Microsoft SaaS and Security 2020**](https://softuni.bg/certificates/details/82218/b7c78385)<br/>:heavy_check_mark: [**Linux System Administration 2020**](https://softuni.bg/certificates/details/84022/21a98431)|
-| :blue_book: [**Facebook**](https://www.facebook.com/ven.bili.37/)| :heavy_check_mark: [**Azure Essentials 2020**](https://softuni.bg/certificates/details/88809/7a5c6795)<br/>:heavy_check_mark: [**Windows System Administration 2020**](https://softuni.bg/certificates/details/91224/e50fcb28)|
-| 💼 [**LinkedIn**](https://www.linkedin.com/in/ventzislav-biliarsky-373764201/)| :heavy_check_mark: [**C# Fundamentals 2020**](https://softuni.bg/certificates/details/94524/2fdb4a80)|
+| :e-mail: **E-mail:**<br/>**vbiliarski@gmail.com**| :heavy_check_mark: [**C# Basics 2020**](https://softuni.bg/certificates/details/82655/30d4099b)<br/>:heavy_check_mark: [**Microsoft SaaS and Security 2020**](https://softuni.bg/certificates/details/82218/b7c78385)|
+| :blue_book: [**Facebook**](https://www.facebook.com/ven.bili.37/)| :heavy_check_mark: [**Linux System Administration 2020**](https://softuni.bg/certificates/details/84022/21a98431)<br/>:heavy_check_mark: [**Azure Essentials 2020**](https://softuni.bg/certificates/details/88809/7a5c6795)|
+| 💼 [**LinkedIn**](https://www.linkedin.com/in/ventzislav-biliarsky-373764201/)| :heavy_check_mark: [**Windows System Administration 2020**](https://softuni.bg/certificates/details/91224/e50fcb28)<br/>:heavy_check_mark: [**C# Fundamentals 2020**](https://softuni.bg/certificates/details/94524/2fdb4a80)|
