@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎓💻 **Student at: SoftwareUniversity**
+- 🌱 **I’m currently learning C# Advanced**
 
 <div>
   <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=vebili&count_private=true&true&hide=issues&show_icons=true" />
@@ -24,5 +25,5 @@ Here are some ideas to get you started:
 | :octocat: Connect via: | :scroll: Certificates: |
 | :-: | :-: |
 | :e-mail: **E-mail:**<br/>**vbiliarski@gmail.com**| :heavy_check_mark: [**C# Basics 2020**](https://softuni.bg/certificates/details/82655/30d4099b)<br/>:heavy_check_mark: [**Microsoft SaaS and Security 2020**](https://softuni.bg/certificates/details/82218/b7c78385)|
-| :blue_book: [**Facebook**](https://www.facebook.com/ven.bili.37/)| :heavy_check_mark: [**C# Fundamentals 2020**](https://softuni.bg/certificates/details/86254/2b4e820e)|
-| 💼 [**LinkedIn**](https://www.linkedin.com/in/delchevgeorgi/)| :heavy_check_mark: [**C# Advanced 2020**](https://softuni.bg/certificates/details/90388/fe4aa004)<br/>:heavy_check_mark: [**C# OOP 2020**](https://softuni.bg/certificates/details/95813/bafda7ee)|
+| :blue_book: [**Facebook**](https://www.facebook.com/ven.bili.37/)| :heavy_check_mark: [**Linux System Administration 2020**](https://softuni.bg/certificates/details/84022/21a98431)|
+| 💼 [**LinkedIn**](https://www.linkedin.com/in/ventzislav-biliarsky-373764201/)| :heavy_check_mark: [**Azure Essentials 2020**](https://softuni.bg/certificates/details/88809/7a5c6795)<br/>:heavy_check_mark: [**Windows System Administration 2020**](https://softuni.bg/certificates/details/91224/e50fcb28)|
