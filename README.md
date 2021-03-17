@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🎓💻 **Student at: SoftwareUniversity**
 - 🌱 **I’m currently learning Software Engineering with C# in SoftUni**
+-->
+- 🎓💻 **Student at ...**
+- 🌱 **I’m currently learning Software Engineering with C# in ...**
+- 🔭 **I’m currently working on ...**
 
 <div>
   <img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=vebili&count_private=true&true&hide=issues&show_icons=true" />
