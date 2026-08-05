@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 🔭 **I’m currently working on ...**
 
 ![GitHub Stats](https://bilimag.com/ghstats/stats.php?username=vebili)
+![Top Langs](https://bilimag.com/ghstats/top-langs.php?username=vebili)
+
 
 | :octocat: Connect via: | :scroll: Certificates: | :scroll: Certificates: |
 | :-: | :-: | :-: |
