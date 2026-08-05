@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://bilimag.com/ghstats/stats.php?username=vebili)
 ![Top Langs](https://bilimag.com/ghstats/top-langs.php?username=vebili)
 
-
 | :octocat: Connect via: | :scroll: Certificates: | :scroll: Certificates: |
 | :-: | :-: | :-: |
 | :e-mail: **E-mail:**<br/>**vbiliarski@gmail.com**| :heavy_check_mark: [**C# Basics 2020**](https://softuni.bg/certificates/details/82655/30d4099b)<br/>:heavy_check_mark: [**Microsoft SaaS and Security 2020**](https://softuni.bg/certificates/details/82218/b7c78385)|:heavy_check_mark: [**Entity Framework Core - 2021**](https://softuni.bg/certificates/details/102744/75e6520d)<br/>:heavy_check_mark: [**C# Advanced - 2021**](https://softuni.bg/certificates/details/112890/533137f6)|
